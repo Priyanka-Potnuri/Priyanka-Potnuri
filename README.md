@@ -1,85 +1,49 @@
-# 🛡️ Profile Dashboard Analytics
+<h1 align="center">Hi 👋, I'm Pujitha Priyanka Potnuri</h1>
 
-<table>
-  <tr>
-    <!-- Left Column: Sidebar Details (Richard Hanrick style) -->
-    <td width="30%" valign="top" align="center">
-      <br />
-      <img src="https://github.com" alt="Profile Picture" width="120px" style="border-radius: 50%; border: 3px solid #38bdf8;" />
-      <h2>Pujitha Priyanka Potnuri</h2>
-      <p><b>Network & Infra Security Engineer</b></p>
-      <hr style="border: 0.5px solid #30363d;" />
-      <p align="left">📧 <b>EMAIL</b><br><a href="mailto:pujithapotnuri2004@gmail.com">pujithapotnuri2004@gmail.com</a></p>
-      <p align="left">💼 <b>LINKEDIN</b><br><a href="https://linkedin.com">priyanka/in/potnuri</a></p>
-      <p align="left">📍 <b>LOCATION</b><br>Andhra Pradesh, India</p>
-      <hr style="border: 0.5px solid #30363d;" />
-      <!-- Small Dynamic Tracking Badges -->
-      <img src="https://shields.io" alt="Focus">
-      <img src="https://shields.io" alt="Active">
-    </td>
-    
-    <!-- Right Column: Main Functional Work Sections (What I'm Doing grid) -->
-    <td width="70%" valign="top">
-      <h2>About Me</h2>
-      <p>B.Tech Computer Science Engineering graduate specializing in <b>Network Operations (NetOps)</b>, low-level packet analytics, and systems orchestration. Proficient in engineering infrastructure automation pipelines (GE Appliances) and debugging edge-perimeter network firewall behaviors (Palo Alto Networks). Focused on implementing robust verification metrics to optimize data center defense architectures.</p>
-      
-      <hr style="border: 0.5px solid #30363d;" />
-      
-      <h2>What I'm Doing</h2>
-      <table>
-        <tr>
-          <!-- Tile 1: Infrastructure Automation -->
-          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
-            <h4>⚙️ Infrastructure Automation</h4>
-            <p style="font-size: 13px; color: #8b949e;">Engineered production-ready Python automation modules integrating GraphQL data feeds with Cloud systems to perform environment auditing controls (GE Appliances).</p>
-          </td>
-          <!-- Tile 2: Perimeter Protection -->
-          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
-            <h4>🛡️ Perimeter Protection</h4>
-            <p style="font-size: 13px; color: #8b949e;">Managed active testing controls inside isolated lab sandboxes to configure firewall routing policies and mitigate threat injections (Palo Alto Networks).</p>
-          </td>
-        </tr>
-        <tr>
-          <!-- Tile 3: Threat Analytics Dashboard -->
-          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
-            <h4>📊 Security Telemetry Logs</h4>
-            <p style="font-size: 13px; color: #8b949e;">Simulated a production-grade SOC framework parsing mock threat flags using Python, Flask, Matplotlib memory buffer configurations.</p>
-          </td>
-          <!-- Tile 4: Low Level Socket Scripting -->
-          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
-            <h4>🔌 Low-Level Socket Scripting</h4>
-            <p style="font-size: 13px; color: #8b949e;">Constructed independent standalone port scanning routines checking TCP transport layers using raw system connection timeout logic controls.</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+Network Infrastructure & Security Automation Engineer | Python | Linux | NetOps
+</h3>
+
+<p align="center">
+  <a href="https://linkedin.com"><b> www.linkedin.com/in/priyanka-potnuri </b></a> &nbsp;|&nbsp; 
+  <a href="mailto:pujithapotnuri2004@gmail.com"><b>pujithapotnuri2004@gmail.com </b></a>
+</p>
 
 ---
 
-## 📁 Featured System Engineering Repositories
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>📊 <a href="https://github.com">Network IDS Simulator</a></h4>
-      <p style="font-size: 12px;">Flask • Python • Scikit-Learn</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🔐 <a href="https://github.com">Image Steganography</a></h4>
-      <p style="font-size: 12px;">OpenCV • Matrix Arrays • AES</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ <a href="https://github.com">Socket Port Scanner</a></h4>
-      <p style="font-size: 12px;">Network Sockets • Linux OS</p>
-    </td>
-  </tr>
-</table>
+- 🎓 **B.Tech Computer Science Engineering Graduate (2025)** with 7.69 CGPA.
+- 🏢 **Digital Technology Intern @ GE Appliances:** Engineered production-ready Python automation modules integrating GraphQL data feeds with Cloud systems for environment auditing logs.
+- 🛡️ **Cybersecurity Intern @ Palo Alto Networks (AICTE):** Managed active testing controls inside isolated lab sandboxes to configure firewall routing policies and mitigate threat injections.
+- ⚙️ **Core Technical Specialization:** Deeply focused on Network Operations (NetOps), low-level data layer packet analysis, and building infrastructure automation scripting frameworks.
 
 ---
 
-## 📈 Git Development Telemetry
+## 🛠️ Tech Stack & Tooling
+
+- **Programming Languages:** Python, C, Java, SQL, Shell Scripting Basics
+- **Core Operating Systems:** Linux/Unix Environment Administration
+- **Network Operation Telemetry:** Wireshark Packet Sniffing, Nmap Perimeter Mapping, Splunk Monitoring
+- **Web Architectures & Frameworks:** Flask Micro-Framework, REST Architecture, GraphQL Data Feeds
+
+---
+
+## 📂 Featured Security Engineering Projects
+
+- 📊 **[Network IDS Simulator Dashboard](https://github.com)** — *Python • Flask • Scikit-Learn • Matplotlib*
+  Simulated a production-grade Security Operations Center (SOC) telemetry log engine filtering mock traffic threat flags. Implemented base64 memory buffer rendering to stream analytics graphs alongside ML validation outputs.
+
+- 🔑 **[Image Steganography Utility Tool](https://github.com)** — *Python • OpenCV Matrix Management*
+  Constructed an isolated digital asset encryption vault deploying multi-dimensional pixel data channel mapping loops. Integrated custom passcode verification checks to govern low-level text string payload decryption paths.
+
+- 🔌 **[Lightweight Socket Port Scanner](https://github.com)** — *Python Standard Socket APIs*
+  Built a micro-reconnaissance engine scanning target network transport boundaries (`50–84`) deploying standalone network connection timeout logic controls.
+
+---
+
+## 📊 GitHub Analytics Tracker
+
 <p align="left">
   <img src="https://vercel.app" alt="Priyanka's GitHub Stats" />
 </p>
