@@ -1,97 +1,85 @@
-# 🛡️ Pujitha Priyanka Potnuri
-### *Network Operations & Infrastructure Security Automation Engineer*
-
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:pujithapotnuri2004@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  <img src="https://shields.io" alt="Focus">
-</p>
-
----
-
-## 🚀 Professional Summary
-B.Tech Computer Science Engineering graduate specializing in **Network Operations (NetOps)**, infrastructure configuration validation, and low-level data layer packet automation scripts. Hands-on experience developing enterprise automation scripts (GE Appliances) and debugging sandbox-perimeter network firewall behaviors (Palo Alto Networks). Focused on engineering clear verification matrices to secure high-performance computing clusters and data center workloads.
-
----
-
-## 🛠️ Technical Ecosystem
+# 🛡️ Profile Dashboard Analytics
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Core Networking Operations</h3>
-      <ul>
-        <li><b>Protocols:</b> TCP/IP Layer Stack, ARP Logic, Routing Foundations, ICMP</li>
-        <li><b>Traffic Analytics:</b> Packet Analysis, Flow Telemetry, Subnet Segmentation Math</li>
-        <li><b>Perimeter Controls:</b> Statefully Configured Firewalls, Port Filtering Architectures</li>
-      </ul>
+    <!-- Left Column: Sidebar Details (Richard Hanrick style) -->
+    <td width="30%" valign="top" align="center">
+      <br />
+      <img src="https://github.com" alt="Profile Picture" width="120px" style="border-radius: 50%; border: 3px solid #38bdf8;" />
+      <h2>Pujitha Priyanka Potnuri</h2>
+      <p><b>Network & Infra Security Engineer</b></p>
+      <hr style="border: 0.5px solid #30363d;" />
+      <p align="left">📧 <b>EMAIL</b><br><a href="mailto:pujithapotnuri2004@gmail.com">pujithapotnuri2004@gmail.com</a></p>
+      <p align="left">💼 <b>LINKEDIN</b><br><a href="https://linkedin.com">priyanka/in/potnuri</a></p>
+      <p align="left">📍 <b>LOCATION</b><br>Andhra Pradesh, India</p>
+      <hr style="border: 0.5px solid #30363d;" />
+      <!-- Small Dynamic Tracking Badges -->
+      <img src="https://shields.io" alt="Focus">
+      <img src="https://shields.io" alt="Active">
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Security & Code Automation</h3>
-      <ul>
-        <li><b>Languages:</b> Python Scripting Engine, C, Java, SQL, Shell Automation Basics</li>
-        <li><b>Frameworks & APIs:</b> Flask Web Micro-engine, REST Architecture, GraphQL Data Feeds</li>
-        <li><b>Security Tooling:</b> Wireshark Packet Sniffing, Nmap Perimeter Mapping, Splunk Logs</li>
-      </ul>
+    
+    <!-- Right Column: Main Functional Work Sections (What I'm Doing grid) -->
+    <td width="70%" valign="top">
+      <h2>About Me</h2>
+      <p>B.Tech Computer Science Engineering graduate specializing in <b>Network Operations (NetOps)</b>, low-level packet analytics, and systems orchestration. Proficient in engineering infrastructure automation pipelines (GE Appliances) and debugging edge-perimeter network firewall behaviors (Palo Alto Networks). Focused on implementing robust verification metrics to optimize data center defense architectures.</p>
+      
+      <hr style="border: 0.5px solid #30363d;" />
+      
+      <h2>What I'm Doing</h2>
+      <table>
+        <tr>
+          <!-- Tile 1: Infrastructure Automation -->
+          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
+            <h4>⚙️ Infrastructure Automation</h4>
+            <p style="font-size: 13px; color: #8b949e;">Engineered production-ready Python automation modules integrating GraphQL data feeds with Cloud systems to perform environment auditing controls (GE Appliances).</p>
+          </td>
+          <!-- Tile 2: Perimeter Protection -->
+          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
+            <h4>🛡️ Perimeter Protection</h4>
+            <p style="font-size: 13px; color: #8b949e;">Managed active testing controls inside isolated lab sandboxes to configure firewall routing policies and mitigate threat injections (Palo Alto Networks).</p>
+          </td>
+        </tr>
+        <tr>
+          <!-- Tile 3: Threat Analytics Dashboard -->
+          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
+            <h4>📊 Security Telemetry Logs</h4>
+            <p style="font-size: 13px; color: #8b949e;">Simulated a production-grade SOC framework parsing mock threat flags using Python, Flask, Matplotlib memory buffer configurations.</p>
+          </td>
+          <!-- Tile 4: Low Level Socket Scripting -->
+          <td width="50%" valign="top" style="background-color: #1c2128; border-radius: 8px; padding: 12px;">
+            <h4>🔌 Low-Level Socket Scripting</h4>
+            <p style="font-size: 13px; color: #8b949e;">Constructed independent standalone port scanning routines checking TCP transport layers using raw system connection timeout logic controls.</p>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Enterprise Infrastructure History
-
-### 🏢 **GE Appliances (a Haier Company) — Digital Technology Intern**
-*July 2025 – January 2026 | Hyderabad, India*
-*   **Infrastructure Script Optimization:** Engineered production-level automated Python utilities tracking internal API data objects with Cloud platforms for environment auditing logs.
-*   **Telemetry Re-platforming:** Successfully migrated legacy analytical frameworks onto secure enterprise cloud nodes with 100% data processing logic verification.
-
-### 🛡️ **Palo Alto Networks — Cybersecurity Intern (AICTE)**
-*September 2023 – November 2023 | Virtual Sandbox*
-*   **Perimeter Architecture Monitoring:** Managed active testing controls inside isolated lab sandboxes to configure firewall routing policies, analyze data transmission flows, and mitigate threat injections.
-
----
-
-## 📂 Featured System Engineering Repositories
+## 📁 Featured System Engineering Repositories
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com">Network IDS Simulator</a></h3>
-      <p><i>Python • Flask • Scikit-Learn • Matplotlib</i></p>
-      <img src="https://github.com/blob/main/dashboard_preview.png?raw=true" alt="IDS Telemetry Preview" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
-      <ul>
-        <li>Simulated a production-grade Security Operations Center (SOC) telemetry log engine filtering dynamic mock traffic threat flags.</li>
-        <li>Implemented base64 memory buffer rendering to stream security analytics graphs alongside machine learning validation outputs.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h4>📊 <a href="https://github.com">Network IDS Simulator</a></h4>
+      <p style="font-size: 12px;">Flask • Python • Scikit-Learn</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔑 <a href="https://github.com">Image Steganography Tool</a></h3>
-      <p><i>Python • OpenCV Matrix Management</i></p>
-      <img src="https://github.com/blob/main/stegno_preview.png?raw=true" alt="Steganography Preview" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
-      <ul>
-        <li>Constructed an isolated digital asset encryption vault deploying multi-dimensional pixel data channel mapping loops.</li>
-        <li>Integrated custom structural verification checks to govern low-level string payload decryption paths.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h4>🔐 <a href="https://github.com">Image Steganography</a></h4>
+      <p style="font-size: 12px;">OpenCV • Matrix Arrays • AES</p>
     </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3>🔌 <a href="https://github.com">Lightweight Socket Port Scanner</a></h3>
-      <p><i>Python Standard Socket APIs</i></p>
-      <ul>
-        <li>Built a micro-reconnaissance engine scanning target network transport boundaries (50–84) deploying standalone network connection timeout logic controls.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h4>⚙️ <a href="https://github.com">Socket Port Scanner</a></h4>
+      <p style="font-size: 12px;">Network Sockets • Linux OS</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Git Development Analytics
+## 📈 Git Development Telemetry
 <p align="left">
   <img src="https://vercel.app" alt="Priyanka's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
 </p>
